@@ -35,5 +35,4 @@ This project analyses historical weather data for Lagos from 2010 to 2024 to ide
 
 ## Author
 Esther Oziowuh Emmanuel
-Esther Ohuenene Emmanuel
 
